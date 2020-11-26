@@ -20,4 +20,6 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
-# quasar-clone-nubank
+
+![](https://raw.githubusercontent.com/danieldeandradelopes/quasar-clone-nubank/main/prints/nubank.png)
+
