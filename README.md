@@ -1,4 +1,18 @@
-# Quasar App (nubank)
+# Clone Nubank With Quasar (VueJS)
+
+### Print
+![](https://raw.githubusercontent.com/danieldeandradelopes/quasar-clone-nubank/main/prints/nubank.png)
+
+### Colors
+purple #82269e
+blue #19afba
+green #9cd130
+gray #363538
+white #ffe8ff
+orange #ecad21
+light-purple #923fa9
+
+[View Project (Only Mobile)](https://devtodev-nubank.web.app/#/)
 
 A Quasar Framework app
 
@@ -17,7 +31,3 @@ quasar dev
 ```bash
 quasar build
 ```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
-# quasar-clone-nubank
